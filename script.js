@@ -6,11 +6,11 @@ while (repeat) {
   // capture random computer choice
   var computer = Math.random();
   if (computer < 0.33) {
-    computer == "gajah";
+    computer = "gajah";
   } else if (computer < 0.66) {
-    computer == "orang";
+    computer = "orang";
   } else {
-    computer == "semut";
+    computer = "semut";
   }
   // determine the rules
   // Vaiabel to determine the result
@@ -40,7 +40,7 @@ while (repeat) {
     }
   }
   // code to display the result
-  alert("amu Memilih " + player + " dan Computer Memilih " + computer + "\n" + result);
+  alert("Kamu Memilih " + player + " dan Komputer Memilih " + computer + "\nHasilnya " + result);
   // code to repeat the game
 }
 // message after exiting the game
