@@ -40,6 +40,7 @@ while (repeat) {
     }
   }
   // code to display the result
+  alert("amu Memilih " + player + " dan Computer Memilih " + computer + "\n" + result);
   // code to repeat the game
 }
 // message after exiting the game
