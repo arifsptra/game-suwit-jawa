@@ -42,5 +42,6 @@ while (repeat) {
   // code to display the result
   alert("Kamu Memilih " + player + " dan Komputer Memilih " + computer + "\nHasilnya " + result);
   // code to repeat the game
+  repeat = confirm("Mau Bermain Lagi?");
 }
 // message after exiting the game
