@@ -45,3 +45,4 @@ while (repeat) {
   repeat = confirm("Mau Bermain Lagi?");
 }
 // message after exiting the game
+alert("Terima Kasih Sudah Bermain!");
