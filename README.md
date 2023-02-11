@@ -1,7 +1,7 @@
 ## Cara Bermain
 
 Untuk Bermain Game Suwit Jawa Akses link berikut <br>
-https://arifsptra.github.io/Game-SuwitJawa/index.html
+https://arifsptra.github.io/game-suwit-jawa/
 
 ---
 
